@@ -267,5 +267,401 @@
             "cosmos-sdk": "v0.37.15",
             "modules": {}
         }
+    },
+    "neutron-1": {
+        "v3.0.x": {
+            "cosmos-sdk": "v0.47.10",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/cron"
+                },
+                "dex": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/dex"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                },
+                "gmp": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                },
+                "ibc-hooks": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                },
+                "ibcswap": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v2.0.x": {
+            "cosmos-sdk": "v0.47.6",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.1",
+                    "path": "proto/neutron/cron"
+                },
+                "dex": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/dex"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v1.0.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.4.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.3.x": {
+            "cosmos-sdk": "v0.45.14",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.2.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/feeburner"
+                }
+            }
+        },
+        "v0.1.x": {
+            "cosmos-sdk": "v0.45.5",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/feerefunder"
+                }
+            }
+        },
+        "v0.0.1": {
+            "cosmos-sdk": "v0.45.5",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/transfer/v1"
+                }
+            }
+        }
     }
 }

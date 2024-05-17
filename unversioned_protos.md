@@ -1,0 +1,55 @@
+# List of Unversioned Proto files
+
+## cosmoshub-4
+- v17.x: 
+    1. metaprotocols module
+- v16.x: 
+    1. metaprotocols module
+- v15.x: 
+    1. metaprotocols module
+
+## neutron-1
+- v3.0.0:
+    1. interchainqueries
+    2. contractmanager (v1 and unversioned)
+    3. feerefunder
+    4. feeburner
+    5. cron
+    6. gmp (no proto files in proto directory for these modules)
+    7. ibc-hooks (no proto files in proto directory for these modules)
+    8. ibcswap (no proto files in proto directory for these modules)
+- v2.0.0:
+    1. interchainqueries
+    2. contractmanager (v1 and unversioned)
+    3. feerefunder
+    4. feeburner
+    5. cron
+- v1.0.0:
+    1. interchainqueries
+    2. contractmanager
+    3. feerefunder
+    4. feeburner
+    5. cron
+- v0.4.0:
+    1. interchainqueries
+    2. contractmanager
+    3. feerefunder
+    4. feeburner
+    5. cron
+- v0.3.0:
+    1. interchainqueries
+    2. contractmanager
+    3. feerefunder
+    4. feeburner
+    5. cron
+- v0.2.0:
+    1. interchainqueries
+    2. contractmanager
+    3. feerefunder
+    4. feeburner
+- v0.1.0:
+    1. interchainqueries
+    2. contractmanager
+    3. feerefunder
+- v0.0.1:
+    1. interchainqueries
