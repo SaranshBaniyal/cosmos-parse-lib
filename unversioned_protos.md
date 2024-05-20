@@ -53,3 +53,44 @@
     3. feerefunder
 - v0.0.1:
     1. interchainqueries
+
+## noble-1
+ v4.1.0: 
+    1. tokenfactory
+    2. globalfee
+    3. tariff
+ v4.0.0: 
+    1. tokenfactory
+    2. blockibc(no proto files available in protos directory)
+    3. fiattokenfactory
+    4. globalfee
+    5. tariff
+- v3.0.0: 
+    1. tokenfactory
+    2. blockibc(no proto files available in protos directory)
+    3. fiattokenfactory
+    4. globalfee
+    5. tariff
+- v2.0.0: 
+    1. tokenfactory
+    2. fiattokenfactory
+- v1.0.0: 
+    1. tokenfactory
+- v0.5.0: 
+    1. tokenfactory
+    2. blockibc(no proto files available in protos directory)
+    3. fiattokenfactory
+    4. globalfee
+    5. tariff
+- v0.4.2: 
+    1. tokenfactory
+    2. blockibc(no proto files available in protos directory)
+    3. fiattokenfactory
+- v0.3.0: 
+    1. tokenfactory
+- v0.2.0: 
+    1. tokenfactory
+- v0.1.0: 
+    1. tokenfactory
+- v0.0.1: 
+    1. tokenfactory

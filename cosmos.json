@@ -663,5 +663,236 @@
                 }
             }
         }
+    },
+    "noble-1": {
+        "v4.1.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/tokenfactory"
+                },
+                "forwarding": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/noble/forwarding/v1"
+                }
+            }
+        },
+        "v4.0.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v3.x.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v2.x.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/fiattokenfactory"
+                }
+            }
+        },
+        "v1.x.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.5.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": ""
+                }
+            }
+        },
+        "v0.4.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": "proto/fiattokenfactory"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": ""
+                }
+            }
+        },
+        "v0.3.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.2.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.1.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.0.1": {
+            "cosmos-sdk": "v0.45.7-0.20221104161803-456ca5663c5e",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        }
     }
 }
