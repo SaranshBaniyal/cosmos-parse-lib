@@ -94,3 +94,29 @@
     1. tokenfactory
 - v0.0.1: 
     1. tokenfactory
+
+## celestia
+- v0.5.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+    4. third_party/proto 
+        [confio, cosmos_proto, gogoproto, google, tendermint]
+- v0.4.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+- v0.3.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+- v0.2.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+- v0.1.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+- v0.0.1: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
